@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "W2_Praktikum", "W2_Praktiku
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Asjad", "Asjad", "{137419B7-7E60-4222-9697-70B201EA8DF9}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\Andrejskaja papka\Uchjoba\IS arendamine 2\Time recording log.xlsx = ..\..\..\Desktop\Andrejskaja papka\Uchjoba\IS arendamine 2\Time recording log.xlsx
+		Time recording log.xlsx = Time recording log.xlsx
 	EndProjectSection
 EndProject
 Global
