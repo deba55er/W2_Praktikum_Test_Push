@@ -16,7 +16,6 @@ namespace W2_Praktikum
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-            string a = "";
         }
 
         public IConfiguration Configuration { get; }
